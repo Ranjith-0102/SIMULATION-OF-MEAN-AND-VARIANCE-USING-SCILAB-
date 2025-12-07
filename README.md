@@ -89,5 +89,6 @@ __OUTPUT GRAPH:__
 
 
 __RESULT:__
+![WhatsApp Image 2025-12-07 at 9 14 56 PM](https://github.com/user-attachments/assets/3026b1d4-923a-4c6a-99ab-1d38f5e7b10e)
 
 Thus the mean and variance using scilab code with the given reference sequence is verified and proved successfully.
